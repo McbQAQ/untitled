@@ -1,0 +1,6 @@
+Lecture 1-4: how the integer and float number is restored at machine level
+Lecture 5: basical instructions of machine level programming
+Lecture 6: control instrutions(if-else, goto, do-while, while, for, switch)
+				   why the switch statment can be more effective
+Lecture 7: procedures(call, ret/rep, the stack structure when functions are called)
+
